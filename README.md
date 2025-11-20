@@ -24,7 +24,7 @@ This README provides a complete summary of architecture, capabilities, deploymen
 
 ### ▶️ Application Demo
 
-<video width="100%" src="./demo.mp4" controls autoplay muted loop playsinline>
+<video width="100%" src="https://github.com/CMU-DEMP01/XInsight-Docs/blob/main/demo.mp4" controls autoplay muted loop playsinline>
   Your browser does not support the video tag.
 </video>
 
